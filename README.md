@@ -2,6 +2,11 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+## 📃 Prerequisite
+- Visual Studio Code
+- npm (Node.js) version 14.18+ or 16+
+- React 18+
+
 ## 🔧 Project Setup
 
 1. **Create Vite + React Application**
