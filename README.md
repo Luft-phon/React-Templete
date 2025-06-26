@@ -19,7 +19,12 @@ npm create vite@latest
 ```
 npm install
 ```
-4. **Run the project**
+4. **Install React Router to use single-page application**
+```
+npm install react-router-dom
+```
+
+5. **Run the project**
 ```
 npm run dev
 ```
